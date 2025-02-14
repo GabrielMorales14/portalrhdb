@@ -142,11 +142,6 @@
       "country_id": 142
     },
     {
-      "id": 3465,
-      "name": "Morelos",
-      "country_id": 142
-    },
-    {
       "id": 3477,
       "name": "Nayarit",
       "country_id": 142
@@ -202,11 +197,6 @@
       "country_id": 142
     },
     {
-      "id": 3458,
-      "name": "Tlaxcala",
-      "country_id": 142
-    },
-    {
       "id": 3464,
       "name": "Veracruz de Ignacio de la Llave",
       "country_id": 142
@@ -224,36 +214,12 @@
   ],
   "Proveedores": [
     {
-      "CODE": "0000000068",
-      "DESCR": "Universidad Autonoma Chihuahua"
-    },
-    {
-      "CODE": "0000000006",
-      "DESCR": "CBTIS No 59"
-    },
-    {
-      "CODE": "0000000007",
-      "DESCR": "CBTIS No 88"
-    },
-    {
       "CODE": "0000000011",
       "DESCR": "Cntr Est Tecnol Laguna del Rey"
     },
     {
       "CODE": "0000000012",
       "DESCR": "Centro Estudios Universitarios"
-    },
-    {
-      "CODE": "0000000013",
-      "DESCR": "Centro intérprete y trad. Berl"
-    },
-    {
-      "CODE": "0000000014",
-      "DESCR": "Centro Region Educac Abierta"
-    },
-    {
-      "CODE": "0000000015",
-      "DESCR": "Cntr Tec de Educ Esp Sierra Ma"
     },
     {
       "CODE": "0000000017",
@@ -264,32 +230,12 @@
       "DESCR": "Colegio Americano de Torreón"
     },
     {
-      "CODE": "0000000026",
-      "DESCR": "Conalep Torreón"
-    },
-    {
-      "CODE": "0000000028",
-      "DESCR": "Escuela Comercial Treviño"
-    },
-    {
       "CODE": "0000000031",
       "DESCR": "Escuela Técnica Industr Torreón"
     },
     {
-      "CODE": "0000000037",
-      "DESCR": "Institución Educativa de la La"
-    },
-    {
-      "CODE": "0000000040",
-      "DESCR": "Instituto Cap Ferroc"
-    },
-    {
       "CODE": "0000000041",
       "DESCR": "Instituto de Metalurgia UASLP"
-    },
-    {
-      "CODE": "0000000043",
-      "DESCR": "Instituto María Cristina"
     },
     {
       "CODE": "0000000048",
@@ -316,20 +262,8 @@
       "DESCR": "Universidad la Salle Laguna"
     },
     {
-      "CODE": "0000000096",
-      "DESCR": "Universidad Tecnologica de Esc"
-    },
-    {
       "CODE": "0000000097",
       "DESCR": "Universidad Tecnológica de Tor"
-    },
-    {
-      "CODE": "0000000099",
-      "DESCR": "Prepa. Venustiano Carranza"
-    },
-    {
-      "CODE": "0000000100",
-      "DESCR": "Preparatoria Luzac"
     },
     {
       "CODE": "0000000122",
@@ -398,34 +332,6 @@
     {
       "CODE": "000012",
       "DESCR": "Comisión Federal de Electricid"
-    },
-    {
-      "CODE": "000018",
-      "DESCR": "Consejo Estat de Cienc y Tecno"
-    },
-    {
-      "CODE": "000020",
-      "DESCR": "Instit Ingen Electri y Electro"
-    },
-    {
-      "CODE": "000025",
-      "DESCR": "Club Industriales de la Laguna"
-    },
-    {
-      "CODE": "000033",
-      "DESCR": "Asoc Nalcional de Ing Quimicos"
-    },
-    {
-      "CODE": "000034",
-      "DESCR": "Asoc Nal de la Industr Quimica"
-    },
-    {
-      "CODE": "000035",
-      "DESCR": "Consultores en Desarr Gerencia"
-    },
-    {
-      "CODE": "000041",
-      "DESCR": "Inst Tec Autonomo de Mexico"
     }
   ],
   "Costos": {
