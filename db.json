@@ -224,24 +224,8 @@
   ],
   "Proveedores": [
     {
-      "CODE": "0000000139",
-      "DESCR": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales"
-    },
-    {
-      "CODE": "0000000046",
-      "DESCR": "Instituto Tecnológico Chihuahua"
-    },
-    {
-      "CODE": "0000000054",
-      "DESCR": "Instituto Tecnológico Parral"
-    },
-    {
       "CODE": "0000000068",
       "DESCR": "Universidad Autonoma Chihuahua"
-    },
-    {
-      "CODE": "0000000088",
-      "DESCR": "Universidad Juárez"
     },
     {
       "CODE": "0000000006",
@@ -272,24 +256,12 @@
       "DESCR": "Cntr Tec de Educ Esp Sierra Ma"
     },
     {
-      "CODE": "0000000016",
-      "DESCR": "Cinvestav"
-    },
-    {
       "CODE": "0000000017",
       "DESCR": "Cntr Invest Aduan y Com Inter"
     },
     {
       "CODE": "0000000018",
       "DESCR": "Colegio Americano de Torreón"
-    },
-    {
-      "CODE": "0000000022",
-      "DESCR": "Compurey"
-    },
-    {
-      "CODE": "0000000025",
-      "DESCR": "Conalep Gómez Palacio"
     },
     {
       "CODE": "0000000026",
@@ -400,10 +372,6 @@
       "DESCR": "Otro"
     },
     {
-      "CODE": "000001",
-      "DESCR": "Technology Training, S. de R.L"
-    },
-    {
       "CODE": "000002",
       "DESCR": "Grupo Ejemex"
     },
@@ -438,14 +406,6 @@
     {
       "CODE": "000020",
       "DESCR": "Instit Ingen Electri y Electro"
-    },
-    {
-      "CODE": "000021",
-      "DESCR": "Global Environmental Mgnm Init"
-    },
-    {
-      "CODE": "000022",
-      "DESCR": "Transportation Technology Cent"
     },
     {
       "CODE": "000025",
