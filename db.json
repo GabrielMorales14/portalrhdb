@@ -56,123 +56,7 @@
     "paises": [
       {
         "id": 142,
-        "name": "Mexico",
-        "iso3": "MEX",
-        "iso2": "MX",
-        "numeric_code": "484",
-        "phonecode": "52",
-        "capital": "Ciudad de México",
-        "currency": "MXN",
-        "currency_name": "Mexican peso",
-        "currency_symbol": "$",
-        "tld": ".mx",
-        "native": "México",
-        "region": "Americas",
-        "region_id": 2,
-        "subregion": "Central America",
-        "subregion_id": 9,
-        "nationality": "Mexican",
-        "timezones": [
-          {
-            "zoneName": "America/Bahia_Banderas",
-            "gmtOffset": -21600,
-            "gmtOffsetName": "UTC-06:00",
-            "abbreviation": "CST",
-            "tzName": "Central Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Cancun",
-            "gmtOffset": -18000,
-            "gmtOffsetName": "UTC-05:00",
-            "abbreviation": "EST",
-            "tzName": "Eastern Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Chihuahua",
-            "gmtOffset": -25200,
-            "gmtOffsetName": "UTC-07:00",
-            "abbreviation": "MST",
-            "tzName": "Mountain Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Hermosillo",
-            "gmtOffset": -25200,
-            "gmtOffsetName": "UTC-07:00",
-            "abbreviation": "MST",
-            "tzName": "Mountain Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Matamoros",
-            "gmtOffset": -21600,
-            "gmtOffsetName": "UTC-06:00",
-            "abbreviation": "CST",
-            "tzName": "Central Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Mazatlan",
-            "gmtOffset": -25200,
-            "gmtOffsetName": "UTC-07:00",
-            "abbreviation": "MST",
-            "tzName": "Mountain Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Merida",
-            "gmtOffset": -21600,
-            "gmtOffsetName": "UTC-06:00",
-            "abbreviation": "CST",
-            "tzName": "Central Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Mexico_City",
-            "gmtOffset": -21600,
-            "gmtOffsetName": "UTC-06:00",
-            "abbreviation": "CST",
-            "tzName": "Central Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Monterrey",
-            "gmtOffset": -21600,
-            "gmtOffsetName": "UTC-06:00",
-            "abbreviation": "CST",
-            "tzName": "Central Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Ojinaga",
-            "gmtOffset": -25200,
-            "gmtOffsetName": "UTC-07:00",
-            "abbreviation": "MST",
-            "tzName": "Mountain Standard Time (North America"
-          },
-          {
-            "zoneName": "America/Tijuana",
-            "gmtOffset": -28800,
-            "gmtOffsetName": "UTC-08:00",
-            "abbreviation": "PST",
-            "tzName": "Pacific Standard Time (North America"
-          }
-        ],
-        "translations": {
-          "ko": "멕시코",
-          "pt-BR": "México",
-          "pt": "México",
-          "nl": "Mexico",
-          "hr": "Meksiko",
-          "fa": "مکزیک",
-          "de": "Mexiko",
-          "es": "México",
-          "fr": "Mexique",
-          "ja": "メキシコ",
-          "it": "Messico",
-          "zh-CN": "墨西哥",
-          "tr": "Meksika",
-          "ru": "Мексика",
-          "uk": "Мексика",
-          "pl": "Meksyk"
-        },
-        "latitude": "23.00000000",
-        "longitude": "-102.00000000",
-        "emoji": "🇲🇽",
-        "emojiU": "U+1F1F2 U+1F1FD"
+        "name": "Mexico"
       }
     ]
   },
@@ -180,22 +64,408 @@
     {
       "id": 3456,
       "name": "Aguascalientes",
-      "country_id": 142,
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "state_code": "AGU",
-      "type": "state",
-      "latitude": "21.88525620",
-      "longitude": "-102.29156770"
-    }    
+      "country_id": 142
+    },
+    {
+      "id": 3457,
+      "name": "Baja California",
+      "country_id": 142
+    },
+    {
+      "id": 3460,
+      "name": "Baja California Sur",
+      "country_id": 142
+    },
+    {
+      "id": 3475,
+      "name": "Campeche",
+      "country_id": 142
+    },
+    {
+      "id": 3451,
+      "name": "Chiapas",
+      "country_id": 142
+    },
+    {
+      "id": 3447,
+      "name": "Chihuahua",
+      "country_id": 142
+    },
+    {
+      "id": 3473,
+      "name": "Ciudad de México",
+      "country_id": 142
+    },
+    {
+      "id": 3471,
+      "name": "Coahuila de Zaragoza",
+      "country_id": 142
+    },
+    {
+      "id": 3472,
+      "name": "Colima",
+      "country_id": 142
+    },
+    {
+      "id": 3453,
+      "name": "Durango",
+      "country_id": 142
+    },
+    {
+      "id": 3450,
+      "name": "Estado de México",
+      "country_id": 142
+    },
+    {
+      "id": 3469,
+      "name": "Guanajuato",
+      "country_id": 142
+    },
+    {
+      "id": 3459,
+      "name": "Guerrero",
+      "country_id": 142
+    },
+    {
+      "id": 3470,
+      "name": "Hidalgo",
+      "country_id": 142
+    },
+    {
+      "id": 4857,
+      "name": "Jalisco",
+      "country_id": 142
+    },
+    {
+      "id": 3474,
+      "name": "Michoacán de Ocampo",
+      "country_id": 142
+    },
+    {
+      "id": 3465,
+      "name": "Morelos",
+      "country_id": 142
+    },
+    {
+      "id": 3477,
+      "name": "Nayarit",
+      "country_id": 142
+    },
+    {
+      "id": 3452,
+      "name": "Nuevo León",
+      "country_id": 142
+    },
+    {
+      "id": 3448,
+      "name": "Oaxaca",
+      "country_id": 142
+    },
+    {
+      "id": 3476,
+      "name": "Puebla",
+      "country_id": 142
+    },
+    {
+      "id": 3455,
+      "name": "Querétaro",
+      "country_id": 142
+    },
+    {
+      "id": 3467,
+      "name": "Quintana Roo",
+      "country_id": 142
+    },
+    {
+      "id": 3461,
+      "name": "San Luis Potosí",
+      "country_id": 142
+    },
+    {
+      "id": 3449,
+      "name": "Sinaloa",
+      "country_id": 142
+    },
+    {
+      "id": 3468,
+      "name": "Sonora",
+      "country_id": 142
+    },
+    {
+      "id": 3454,
+      "name": "Tabasco",
+      "country_id": 142
+    },
+    {
+      "id": 3463,
+      "name": "Tamaulipas",
+      "country_id": 142
+    },
+    {
+      "id": 3458,
+      "name": "Tlaxcala",
+      "country_id": 142
+    },
+    {
+      "id": 3464,
+      "name": "Veracruz de Ignacio de la Llave",
+      "country_id": 142
+    },
+    {
+      "id": 3466,
+      "name": "Yucatán",
+      "country_id": 142
+    },
+    {
+      "id": 3462,
+      "name": "Zacatecas",
+      "country_id": 142
+    }
   ],
   "Proveedores": [
     {
-      "COUNTRY": "MEX",
       "CODE": "0000000139",
-      "DESCR": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",
-      "STATE": "CDMX",
-      "DESCR100": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales"
+      "DESCR": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales"
+    },
+    {
+      "CODE": "0000000046",
+      "DESCR": "Instituto Tecnológico Chihuahua"
+    },
+    {
+      "CODE": "0000000054",
+      "DESCR": "Instituto Tecnológico Parral"
+    },
+    {
+      "CODE": "0000000068",
+      "DESCR": "Universidad Autonoma Chihuahua"
+    },
+    {
+      "CODE": "0000000088",
+      "DESCR": "Universidad Juárez"
+    },
+    {
+      "CODE": "0000000006",
+      "DESCR": "CBTIS No 59"
+    },
+    {
+      "CODE": "0000000007",
+      "DESCR": "CBTIS No 88"
+    },
+    {
+      "CODE": "0000000011",
+      "DESCR": "Cntr Est Tecnol Laguna del Rey"
+    },
+    {
+      "CODE": "0000000012",
+      "DESCR": "Centro Estudios Universitarios"
+    },
+    {
+      "CODE": "0000000013",
+      "DESCR": "Centro intérprete y trad. Berl"
+    },
+    {
+      "CODE": "0000000014",
+      "DESCR": "Centro Region Educac Abierta"
+    },
+    {
+      "CODE": "0000000015",
+      "DESCR": "Cntr Tec de Educ Esp Sierra Ma"
+    },
+    {
+      "CODE": "0000000016",
+      "DESCR": "Cinvestav"
+    },
+    {
+      "CODE": "0000000017",
+      "DESCR": "Cntr Invest Aduan y Com Inter"
+    },
+    {
+      "CODE": "0000000018",
+      "DESCR": "Colegio Americano de Torreón"
+    },
+    {
+      "CODE": "0000000022",
+      "DESCR": "Compurey"
+    },
+    {
+      "CODE": "0000000025",
+      "DESCR": "Conalep Gómez Palacio"
+    },
+    {
+      "CODE": "0000000026",
+      "DESCR": "Conalep Torreón"
+    },
+    {
+      "CODE": "0000000028",
+      "DESCR": "Escuela Comercial Treviño"
+    },
+    {
+      "CODE": "0000000031",
+      "DESCR": "Escuela Técnica Industr Torreón"
+    },
+    {
+      "CODE": "0000000037",
+      "DESCR": "Institución Educativa de la La"
+    },
+    {
+      "CODE": "0000000040",
+      "DESCR": "Instituto Cap Ferroc"
+    },
+    {
+      "CODE": "0000000041",
+      "DESCR": "Instituto de Metalurgia UASLP"
+    },
+    {
+      "CODE": "0000000043",
+      "DESCR": "Instituto María Cristina"
+    },
+    {
+      "CODE": "0000000048",
+      "DESCR": "Instituto Tecnológico Laguna"
+    },
+    {
+      "CODE": "0000000056",
+      "DESCR": "Instituto Tecnologico Saltillo"
+    },
+    {
+      "CODE": "0000000067",
+      "DESCR": "Universidad Autonoma Coahuila"
+    },
+    {
+      "CODE": "0000000072",
+      "DESCR": "Universidad Autónoma Laguna"
+    },
+    {
+      "CODE": "0000000087",
+      "DESCR": "Universidad Iberoamericana Lag"
+    },
+    {
+      "CODE": "0000000090",
+      "DESCR": "Universidad la Salle Laguna"
+    },
+    {
+      "CODE": "0000000096",
+      "DESCR": "Universidad Tecnologica de Esc"
+    },
+    {
+      "CODE": "0000000097",
+      "DESCR": "Universidad Tecnológica de Tor"
+    },
+    {
+      "CODE": "0000000099",
+      "DESCR": "Prepa. Venustiano Carranza"
+    },
+    {
+      "CODE": "0000000100",
+      "DESCR": "Preparatoria Luzac"
+    },
+    {
+      "CODE": "0000000122",
+      "DESCR": "Universidad Tec Milenio"
+    },
+    {
+      "CODE": "0000000123",
+      "DESCR": "Instituto MEZE"
+    },
+    {
+      "CODE": "0000000127",
+      "DESCR": "Centro Inv. Química Aplicada"
+    },
+    {
+      "CODE": "0000000129",
+      "DESCR": "Universidad Tecnológica Coah"
+    },
+    {
+      "CODE": "0000000130",
+      "DESCR": "Escuela Comercial Admva"
+    },
+    {
+      "CODE": "0000000131",
+      "DESCR": "Universidad del Valle de Mexic"
+    },
+    {
+      "CODE": "0000000132",
+      "DESCR": "I.T.E.S.M."
+    },
+    {
+      "CODE": "0000000134",
+      "DESCR": "Universidad Iberoamericana"
+    },
+    {
+      "CODE": "000000108",
+      "DESCR": "UNIV AUTONOMA DEL NORESTE"
+    },
+    {
+      "CODE": "0000000000",
+      "DESCR": "Otro"
+    },
+    {
+      "CODE": "000001",
+      "DESCR": "Technology Training, S. de R.L"
+    },
+    {
+      "CODE": "000002",
+      "DESCR": "Grupo Ejemex"
+    },
+    {
+      "CODE": "000003",
+      "DESCR": "Capacitación Integral, S.C."
+    },
+    {
+      "CODE": "000004",
+      "DESCR": "Centro Nacional de Metrología"
+    },
+    {
+      "CODE": "000007",
+      "DESCR": "Servicios Industriales Peñoles"
+    },
+    {
+      "CODE": "000009",
+      "DESCR": "Cámara Minera de México"
+    },
+    {
+      "CODE": "000010",
+      "DESCR": "Control de Radiaciones e Ingen"
+    },
+    {
+      "CODE": "000012",
+      "DESCR": "Comisión Federal de Electricid"
+    },
+    {
+      "CODE": "000018",
+      "DESCR": "Consejo Estat de Cienc y Tecno"
+    },
+    {
+      "CODE": "000020",
+      "DESCR": "Instit Ingen Electri y Electro"
+    },
+    {
+      "CODE": "000021",
+      "DESCR": "Global Environmental Mgnm Init"
+    },
+    {
+      "CODE": "000022",
+      "DESCR": "Transportation Technology Cent"
+    },
+    {
+      "CODE": "000025",
+      "DESCR": "Club Industriales de la Laguna"
+    },
+    {
+      "CODE": "000033",
+      "DESCR": "Asoc Nalcional de Ing Quimicos"
+    },
+    {
+      "CODE": "000034",
+      "DESCR": "Asoc Nal de la Industr Quimica"
+    },
+    {
+      "CODE": "000035",
+      "DESCR": "Consultores en Desarr Gerencia"
+    },
+    {
+      "CODE": "000041",
+      "DESCR": "Inst Tec Autonomo de Mexico"
     }
   ],
   "Costos": {
